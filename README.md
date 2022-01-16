@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MohammadAqilMuhaimin
 - 👀 I’m interested in VSC
 - 🌱 I’m currently learning java,HTML,CSS,C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kidsxsan@gmail.com
 
 <!---
 MohammadAqilMuhaimin/MohammadAqilMuhaimin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
